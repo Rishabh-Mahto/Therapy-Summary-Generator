@@ -115,3 +115,7 @@ Client discussed recent stress at work and difficulty sleeping. Explored coping 
 
 - **Export Options:**  
   Support exporting summaries as PDF, DOCX, or direct EHR integration.
+
+
+![image](https://github.com/user-attachments/assets/98a3b40b-0e5f-4f57-8305-7fd692d8c7ce)
+
