@@ -32,7 +32,7 @@ Includes rich text editing, session note auto-save, privacy/anonymization option
 ### 1. **Clone the repo**
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/Rishabh-Mahto/Therapy-Summary-Generator.git
 cd Therapy-Project
 ```
 
