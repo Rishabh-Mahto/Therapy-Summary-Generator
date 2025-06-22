@@ -14,8 +14,9 @@ export async function generateSummaryRequest({
   anonymizeData: boolean;
 }): Promise<string> {
   const apiKey = import.meta.env.VITE_BACKEND_API_KEY;
+  const apiUrl = import.meta.env.VITE_BACKEND_API_URL;
   try {
-    const res = await fetch("http://127.0.0.1:8000/api/generate-summary", {
+    const res = await fetch(`${apiUrl}/api/generate-summary`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
